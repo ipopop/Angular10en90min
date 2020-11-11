@@ -1,5 +1,7 @@
 # Angular10en90min
 
+from tuto https://youtu.be/IWXzyV4L6BU
+
 ## Angular10TechnoWatch
 
 ![Angular10en90min](https://raw.githubusercontent.com/ipopop/Angular10en90min/main/src/assets/img/Angular10en90min.jpg)
