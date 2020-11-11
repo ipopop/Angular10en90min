@@ -2,6 +2,8 @@
 
 ## Angular10TechnoWatch
 
+![vue3-todo-app](https://raw.githubusercontent.com/ipopop/Angular10en90min/main/src/assets/vue3-todo-app.jpg)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.6.
 
 ### Development server
